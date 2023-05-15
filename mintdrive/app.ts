@@ -3,6 +3,8 @@ import {
     getAssociatedTokenAddress,
     TOKEN_PROGRAM_ID,
 } from '@solana/spl-token';
+
+console.log("Hello is here")
 import {
     Connection,
     Keypair,
