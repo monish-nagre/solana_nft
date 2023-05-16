@@ -1,1 +1,1 @@
-# solana_nft
+# Mint nft on solana blockchain.
